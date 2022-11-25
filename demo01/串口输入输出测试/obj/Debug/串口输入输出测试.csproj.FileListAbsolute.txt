@@ -1,0 +1,16 @@
+D:\demo01\串口输入输出测试\bin\Debug\串口输入输出测试.exe.config
+D:\demo01\串口输入输出测试\bin\Debug\串口输入输出测试.exe
+D:\demo01\串口输入输出测试\bin\Debug\串口输入输出测试.pdb
+D:\demo01\串口输入输出测试\obj\Debug\串口输入输出测试.csproj.AssemblyReference.cache
+D:\demo01\串口输入输出测试\obj\Debug\串口输入输出测试.csproj.SuggestedBindingRedirects.cache
+D:\demo01\串口输入输出测试\obj\Debug\串口输入输出测试.Form1.resources
+D:\demo01\串口输入输出测试\obj\Debug\串口输入输出测试.Properties.Resources.resources
+D:\demo01\串口输入输出测试\obj\Debug\串口输入输出测试.csproj.GenerateResource.cache
+D:\demo01\串口输入输出测试\obj\Debug\串口输入输出测试.csproj.CoreCompileInputs.cache
+D:\demo01\串口输入输出测试\obj\Debug\串口输入输出测试.exe
+D:\demo01\串口输入输出测试\obj\Debug\串口输入输出测试.pdb
+D:\demo01\串口输入输出测试\bin\Debug\串口输入输出测试.exe.manifest
+D:\demo01\串口输入输出测试\bin\Debug\串口输入输出测试.application
+D:\demo01\串口输入输出测试\obj\Debug\串口输入输出测试.TrustInfo.xml
+D:\demo01\串口输入输出测试\obj\Debug\串口输入输出测试.exe.manifest
+D:\demo01\串口输入输出测试\obj\Debug\串口输入输出测试.application
